@@ -1,0 +1,23 @@
+PODS:
+  - SandboxBrowserController (0.1.0):
+    - SnapKit (~> 5.0.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - SandboxBrowserController (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  SandboxBrowserController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SandboxBrowserController: 412841dc50391e1e86d753ed086b73e250cfa5b9
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 2cec69224d31e684eebc48fb6109cfd17a220b9d
+
+COCOAPODS: 1.6.0

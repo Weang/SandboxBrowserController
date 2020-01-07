@@ -1,0 +1,6 @@
+framework module Pods_SandboxBrowserController_Example {
+  umbrella header "Pods-SandboxBrowserController_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module SandboxBrowserController {
+  umbrella header "SandboxBrowserController-umbrella.h"
+
+  export *
+  module * { export * }
+}

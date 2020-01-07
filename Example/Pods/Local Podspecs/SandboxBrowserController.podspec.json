@@ -1,0 +1,27 @@
+{
+  "name": "SandboxBrowserController",
+  "version": "0.1.0",
+  "summary": "A short description of SandboxBrowserController.",
+  "homepage": "https://github.com/w704444178@qq.com/SandboxBrowserController",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "w704444178@qq.com": "w704444178@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/w704444178@qq.com/SandboxBrowserController.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SandboxBrowserController/Classes/**/*",
+  "resources": "SandboxBrowserController/Assets/*",
+  "dependencies": {
+    "SnapKit": [
+      "~> 5.0.0"
+    ]
+  }
+}
