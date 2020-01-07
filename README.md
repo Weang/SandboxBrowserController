@@ -7,7 +7,7 @@
 
 ## Example
 
-![image](https://github.com/Weang/SandboxBrowserController/blob/master/Simulator Screen Shot.png)
+![image](https://github.com/Weang/SandboxBrowserController/blob/master/Simulator%20Screen%20Shot.png)
 
 ## Requirements
 
