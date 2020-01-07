@@ -17,7 +17,7 @@ SandboxBrowserController is available through [CocoaPods](https://cocoapods.org)
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SandboxBrowserController'
+pod 'SandboxBrowserController', '~> 1.0.1'
 ```
 
 ## Author
