@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "892FA91BD95D663B4849E500B4801B26"
+               BlueprintIdentifier = "F387EC912E94EA4BEDACBCE9DB27475A"
                BuildableName = "SandboxBrowserController.framework"
                BlueprintName = "SandboxBrowserController"
                ReferencedContainer = "container:Pods.xcodeproj">

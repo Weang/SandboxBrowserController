@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "233691F14D207CA3CE4FDAD8B42BEC87"
+               BlueprintIdentifier = "581CC0A604E5D98C085DDE7F867359E8"
                BuildableName = "Pods_SandboxBrowserController_Example.framework"
                BlueprintName = "Pods-SandboxBrowserController_Example"
                ReferencedContainer = "container:Pods.xcodeproj">

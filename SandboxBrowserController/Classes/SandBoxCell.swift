@@ -33,8 +33,8 @@ class SandBoxCell: UITableViewCell {
         
         selectButton.isUserInteractionEnabled = false
         selectButton.isHidden = true
-        selectButton.setImage(UIImage.init(named: "file_normal"), for: .normal)
-        selectButton.setImage(UIImage.init(named: "file_selected"), for: .selected)
+        selectButton.setImage(BundleHelper.imageNamed("file_normal"), for: .normal)
+        selectButton.setImage(BundleHelper.imageNamed("file_selected"), for: .selected)
         contentView.addSubview(selectButton)
         selectButton.snp.makeConstraints { (make) in
             make.centerY.equalToSuperview()

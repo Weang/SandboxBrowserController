@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SandboxBrowserController'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = '沙盒文件浏览器'
   
   s.homepage         = 'https://github.com/Weang/SandboxBrowserController'
